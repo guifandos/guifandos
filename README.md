@@ -2,21 +2,6 @@
 
 ---
 
-```bash
-$ git log --oneline --author="Guillermo Fandos"
-
-a3f91bc  fix: p-value was 0.051, added more data
-9d2e847  remove: that prior that was definitely wrong
-c7b1234  WIP: dispersal kernel (model 7, not last one)
-8fa9901  add: coffee dependency to DESCRIPTION
-3cc4102  revert: everything back to how it was in 2022
-d88e310  final_analysis_FINAL_v3_forreal.R
-2a01f5c  feat: found the bug (it was a comma)
-b5d7788  hotfix: reviewer 2 demands blood
-```
-
----
-
 ### 👋 About me
 
 Spatial ecologist and conservation scientist at UCM. I combine field data, citizen science, and Bayesian modelling to understand why animals are where they are — and what will happen to them under global change.
@@ -70,12 +55,9 @@ Status   : always_caffeinated = TRUE ☕
 
 ---
 
-### 📊 GitHub stats
+### 📊 Activity
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guifandos&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifandos&layout=compact&theme=github_dark&hide_border=true&langs_count=5" />
-</p>
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guifandos&theme=github-compact&hide_border=true&area=true&color=3fb950&line=3fb950&point=58a6ff)](https://github.com/guifandos)
 
 ---
 
