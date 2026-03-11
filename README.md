@@ -4,7 +4,7 @@
 
 ### 👋 About me
 
-Spatial ecologist and conservation scientist at UCM. I combine field data, citizen science, and Bayesian modelling to understand why animals are where they are — and what will happen to them under global change.
+Assistant Professor (Profesor Ayudante Doctor) at the Complutense University of Madrid. Spatial ecologist and conservation scientist — I combine field data, citizen science, and Bayesian modelling to understand why animals are where they are and what will happen to them under global change.
 
 ---
 
@@ -31,8 +31,8 @@ Spatial ecologist and conservation scientist at UCM. I combine field data, citiz
 | Project | Description |
 |---|---|
 | [dispersalR](https://github.com/guifandos/dispersalR) | R package for fitting and comparing empirical dispersal kernels |
-| INTRADISP | Intraspecific variation in dispersal in European birds — EURING + Bayesian/Stan |
-| RIMED-FAUNA | Mediterranean river fauna distribution and dynamics |
+| INTRADISP | Intraspecific variation in dispersal in European birds — EURING + Bayesian/Stan · *(in progress)* |
+| RIMED-FAUNA | Mediterranean river fauna distribution and dynamics · *(in progress)* |
 
 ---
 
@@ -42,15 +42,14 @@ Spatial ecologist and conservation scientist at UCM. I combine field data, citiz
 - **Fandos et al. (2023)** — Standardised empirical dispersal kernels emphasise the pervasiveness of long-distance dispersal in European birds. *Journal of Animal Ecology* · [DOI](https://doi.org/10.1111/1365-2656.13838)
 - **Pratzer, Nill, Kuemmerle, Zurell & Fandos (2023)** — Large carnivore range expansion in Iberia in relation to different scenarios of permeability of human-dominated landscapes. *Diversity and Distributions* · [DOI](https://doi.org/10.1111/ddi.13645)
 
----
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guifandos&theme=github-compact&hide_border=true&area=true&color=3fb950&line=3fb950&point=58a6ff)](https://github.com/guifandos)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8zRbuNgAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1579--9444-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1579-9444)
 
 ---
 
 ### 🌐 Find me
 
 [![Website](https://img.shields.io/badge/Web-gfandos.com-informational?style=flat&logo=googlechrome)](https://www.gfandos.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@g__fandos-1DA1F2?style=flat&logo=twitter)](https://twitter.com/g_fandos)
+[![X](https://img.shields.io/badge/X-@g__fandos-000000?style=flat&logo=x&logoColor=white)](https://x.com/g_fandos)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@gfandos-0085ff?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/gfandos.bsky.social)
 [![UCM](https://img.shields.io/badge/UCM-Biodiversidad%20%26%20Ecología-003087?style=flat)](https://www.ucm.es/bee/)
