@@ -1,5 +1,4 @@
-![banner](banner.svg)
-
+![banner](imagen_1.png)
 ---
 
 ### 👋 About me
