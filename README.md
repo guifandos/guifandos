@@ -1,3 +1,7 @@
+![banner](banner.svg)
+
+---
+
 ```bash
 $ git log --oneline --author="Guillermo Fandos"
 
@@ -63,6 +67,15 @@ Status   : always_caffeinated = TRUE ☕
 - **Fandos et al. (2023)** — Standardised empirical dispersal kernels in European birds. *Journal of Animal Ecology* · [DOI](https://doi.org/10.1101/2021.11.08.467775)
 - **Zurell et al. (2022)** — Spatially explicit models for conservation decision-making. *Ecography* · [DOI](https://doi.org/10.1111/ecog.05787)
 - **Briscoe et al. (2021)** — Dynamic occupancy models for species range dynamics. *Global Change Biology* · [DOI](https://doi.org/10.1111/gcb.15723)
+
+---
+
+### 📊 GitHub stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guifandos&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifandos&layout=compact&theme=github_dark&hide_border=true&langs_count=5" />
+</p>
 
 ---
 
