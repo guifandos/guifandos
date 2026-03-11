@@ -1,0 +1,105 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Dark background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="60%" style="stop-color:#0f1e14"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+
+    <!-- Glow for accent elements -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Clip path -->
+    <clipPath id="bounds">
+      <rect width="900" height="200" rx="10"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" rx="10" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <g clip-path="url(#bounds)" opacity="0.07" stroke="#3fb950" stroke-width="0.5">
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="150" y1="0" x2="150" y2="200"/>
+    <line x1="300" y1="0" x2="300" y2="200"/>
+    <line x1="450" y1="0" x2="450" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+    <line x1="750" y1="0" x2="750" y2="200"/>
+  </g>
+
+  <!-- Dispersal kernel curve (right side, decorative) -->
+  <g clip-path="url(#bounds)" opacity="0.18" filter="url(#softglow)">
+    <!-- Normal-like curve centered around x=750 -->
+    <polyline
+      fill="none"
+      stroke="#3fb950"
+      stroke-width="1.5"
+      points="560,180 580,175 600,165 620,148 640,125 660,100 680,80 700,66 720,58 740,55 760,58 780,66 800,80 820,100 840,125 860,148 880,165 900,175"
+    />
+    <!-- Fill under curve -->
+    <polygon
+      fill="#3fb950"
+      opacity="0.15"
+      points="560,180 580,175 600,165 620,148 640,125 660,100 680,80 700,66 720,58 740,55 760,58 780,66 800,80 820,100 840,125 860,148 880,165 900,175 900,185 560,185"
+    />
+    <!-- Dashed baseline -->
+    <line x1="560" y1="183" x2="900" y2="183" stroke="#3fb950" stroke-width="0.8" stroke-dasharray="4,4" opacity="0.5"/>
+  </g>
+
+  <!-- Left accent bar -->
+  <rect x="36" y="38" width="3" height="124" rx="2" fill="#3fb950" filter="url(#glow)" opacity="0.9"/>
+
+  <!-- Main name -->
+  <text x="58" y="88" font-family="'Courier New', Courier, monospace" font-size="38" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">
+    Guillermo Fandos
+  </text>
+
+  <!-- Subtitle with terminal prompt style -->
+  <text x="58" y="118" font-family="'Courier New', Courier, monospace" font-size="14" fill="#3fb950" filter="url(#glow)" opacity="0.95">
+    $ spatial ecologist · bayesian methods · R + Stan
+  </text>
+
+  <!-- Tag pills -->
+  <!-- UCM -->
+  <rect x="58" y="136" width="88" height="22" rx="4" fill="#161b22" stroke="#3fb950" stroke-width="0.8" opacity="0.8"/>
+  <text x="102" y="151" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3fb950" text-anchor="middle">UCM · Madrid</text>
+
+  <!-- dispersal kernels -->
+  <rect x="154" y="136" width="120" height="22" rx="4" fill="#161b22" stroke="#58a6ff" stroke-width="0.8" opacity="0.8"/>
+  <text x="214" y="151" font-family="'Courier New', Courier, monospace" font-size="11" fill="#58a6ff" text-anchor="middle">dispersal kernels</text>
+
+  <!-- SDMs -->
+  <rect x="282" y="136" width="60" height="22" rx="4" fill="#161b22" stroke="#bc8cff" stroke-width="0.8" opacity="0.8"/>
+  <text x="312" y="151" font-family="'Courier New', Courier, monospace" font-size="11" fill="#bc8cff" text-anchor="middle">SDMs</text>
+
+  <!-- gfandos.com -->
+  <text x="58" y="180" font-family="'Courier New', Courier, monospace" font-size="11" fill="#8b949e" opacity="0.8">
+    gfandos.com · @g_fandos
+  </text>
+
+  <!-- Corner decoration: dispersal kernel label -->
+  <text x="690" y="48" font-family="'Courier New', Courier, monospace" font-size="9" fill="#3fb950" opacity="0.4" text-anchor="middle">
+    dispersal kernel
+  </text>
+  <line x1="690" y1="52" x2="740" y2="56" stroke="#3fb950" stroke-width="0.6" opacity="0.25" stroke-dasharray="2,2"/>
+
+</svg>
