@@ -6,17 +6,6 @@
 
 Spatial ecologist and conservation scientist at UCM. I combine field data, citizen science, and Bayesian modelling to understand why animals are where they are — and what will happen to them under global change.
 
-```r
-> library(guifandos)
-> summary(me)
-
-Position : Assistant Professor @ UCM
-Research : dispersal kernels · SDMs · Bayesian inference
-Data     : EURING ringing · citizen science · camera traps
-Tools    : R · Stan · brms · Git
-Status   : always_caffeinated = TRUE ☕
-```
-
 ---
 
 ### 🔬 Research lines
