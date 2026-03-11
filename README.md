@@ -49,18 +49,11 @@ Status   : always_caffeinated = TRUE ☕
 
 ### 📄 Selected publications
 
-- **Fandos et al. (2023)** — Standardised empirical dispersal kernels in European birds. *Journal of Animal Ecology* · [DOI](https://doi.org/10.1101/2021.11.08.467775)
-- **Zurell et al. (2022)** — Spatially explicit models for conservation decision-making. *Ecography* · [DOI](https://doi.org/10.1111/ecog.05787)
-- **Briscoe et al. (2021)** — Dynamic occupancy models for species range dynamics. *Global Change Biology* · [DOI](https://doi.org/10.1111/gcb.15723)
+- **Fandos et al. (2026)** — Simple mechanistic traits outperform complex syndromes in predicting avian dispersal distances. *Communications Biology* · [DOI](https://doi.org/10.1038/s42003-026-09676-x)
+- **Fandos et al. (2023)** — Standardised empirical dispersal kernels emphasise the pervasiveness of long-distance dispersal in European birds. *Journal of Animal Ecology* · [DOI](https://doi.org/10.1111/1365-2656.13838)
+- **Pratzer, Nill, Kuemmerle, Zurell & Fandos (2023)** — Large carnivore range expansion in Iberia in relation to different scenarios of permeability of human-dominated landscapes. *Diversity and Distributions* · [DOI](https://doi.org/10.1111/ddi.13645)
 
 ---
-
-### 📊 GitHub stats
-
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=guifandos&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,prs_merged" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifandos&layout=compact&theme=github_dark&hide_border=true&langs_count=5" />
-</p>
 
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guifandos&theme=github-compact&hide_border=true&area=true&color=3fb950&line=3fb950&point=58a6ff)](https://github.com/guifandos)
 
@@ -70,5 +63,5 @@ Status   : always_caffeinated = TRUE ☕
 
 [![Website](https://img.shields.io/badge/Web-gfandos.com-informational?style=flat&logo=googlechrome)](https://www.gfandos.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@g__fandos-1DA1F2?style=flat&logo=twitter)](https://twitter.com/g_fandos)
-[![Email](https://img.shields.io/badge/Email-gfandos@ucm.es-D14836?style=flat&logo=gmail)](mailto:gfandos@ucm.es)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@gfandos-0085ff?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/gfandos.bsky.social)
 [![UCM](https://img.shields.io/badge/UCM-Biodiversidad%20%26%20Ecología-003087?style=flat)](https://www.ucm.es/bee/)
