@@ -4,7 +4,8 @@
 
 ### 👋 About me
 
-Assistant Professor (Profesor Ayudante Doctor) at the Complutense University of Madrid. Spatial ecologist and conservation scientist — I combine field data, citizen science, and Bayesian modelling to understand why animals are where they are and what will happen to them under global change.
+Assistant Professor (Profesor Ayudante Doctor) at the Complutense University of Madrid. Spatial ecologist and conservation scientist.
+I combine field data, citizen science, and Bayesian modelling to understand why animals are where they are and what will happen to them under global change.
 
 ---
 
